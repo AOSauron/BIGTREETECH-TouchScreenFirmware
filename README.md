@@ -9,8 +9,11 @@
 
 Firmware for BigTreeTech's dual-mode touchscreen 3D printer controllers
 
+_______________
 
-### **Warning :** Edition for Ender 3 Pro with SKR mini E3 v2.0 and TFT 35 Touch screen. Special edition.
+### **Warning :** Edition for Ender 3 Pro with SKR mini E3 v2.0 and TFT 35 E3 v3.0 Touch screen. Special edition.
+
+_______________
 
 
 <img width=500 src="https://user-images.githubusercontent.com/13375512/76691608-ae1b8780-6609-11ea-9ee1-421bcf09e538.png">
